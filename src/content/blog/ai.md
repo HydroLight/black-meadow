@@ -2,7 +2,7 @@
 title: 'On Artificial Intelligence'
 description: 'My thoughts on artificial intelligence.'
 pubDate: 'May 08 2025'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/img/ai.jpg'
 ---
 
 Out of curiosity, I recently looked into the scientific perspective on Human-AI relationships. In my research, I found that there are generally two groups of people — either you are entirely for, or largely against, the use of AI. I would say that I most likely fall into that second category.
